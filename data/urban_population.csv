@@ -1,0 +1,412 @@
+country,urbanization_percent
+Algeria,75
+Egypt,43
+Libya,82
+Morocco,65
+Sudan,36
+Tunisia,71
+Western Sahara,87
+Benin,50
+Burkina Faso,33
+Cabo Verde,74
+Cote d'Ivoire,53
+Gambia,64
+Ghana,59
+Guinea,38
+Guinea-Bissau,45
+Liberia,54
+Mali,46
+Mauritania,58
+Niger,17
+Nigeria,54
+Senegal,50
+Sierra Leone,44
+Togo,44
+Burundi,15
+Comoros,30
+Djibouti,79
+Eritrea,43
+Ethiopia,23
+Kenya,30
+Madagascar,41
+Malawi,18
+Mauritius,41
+Mayotte,45
+Mozambique,39
+Reunion,100
+Rwanda,23
+Seychelles,59
+Somalia,48
+South Sudan,21
+Tanzania,37
+Uganda,27
+Zambia,46
+Zimbabwe,39
+Angola,69
+Cameroon,59
+Central African Republic,44
+Chad,24
+Congo,69
+Equatorial Guinea,74
+Gabon,91
+Sao Tome and Principe,76
+Botswana,73
+eSwatini,25
+Lesotho,30
+Namibia,55
+South Africa,69
+Canada,82
+United States,83
+Belize,47
+Costa Rica,83
+El Salvador,80
+Guatemala,53
+Honduras,60
+Mexico,82
+Nicaragua,60
+Panama,72
+Antigua and Barbuda,24
+Bahamas,84
+Barbados,31
+Cuba,78
+Curacao,89
+Dominica,72
+Dominican Republic,84
+Grenada,37
+Guadeloupe,99
+Haiti,60
+Jamaica,57
+Martinique,89
+Puerto Rico,94
+St. Kitts and Nevis,31
+St. Lucia,19
+St. Vincent and the Grenadines,54
+Trinidad and Tobago,53
+Argentina,92
+Bolivia,71
+Brazil,88
+Chile,89
+Colombia,82
+Ecuador,65
+French Guiana,87
+Guyana,27
+Paraguay,63
+Peru,82
+Suriname,66
+Uruguay,96
+Venezuela,88
+,
+Azerbaijan,58
+Bahrain,90
+Cyprus,67
+Georgia,61
+Iraq,72
+Israel,93
+Jordan,92
+Kuwait,100
+Lebanon,89
+Oman,88
+Palestinian Territory,78
+Qatar,100
+Saudi Arabia,85
+Syria,57
+Turkey,78
+United Arab Emirates,88
+Yemen,40
+Kazakhstan,62
+Kyrgyzstan,38
+Tajikistan,28
+Turkmenistan,54
+Uzbekistan,51
+Afghanistan,27
+Bangladesh,40
+Bhutan,44
+India,36
+Iran,77
+Maldives,42
+Nepal,22
+Pakistan,38
+Sri Lanka,19
+Brunei,79
+Cambodia,39
+Indonesia,59
+Laos,38
+Malaysia,79
+Myanmar,32
+Philippines,54
+Singapore,100
+Thailand,62
+Timor-Leste,37
+Vietnam,39
+China,66
+China,100
+Japan,92
+South Korea, 81
+Mongolia,70
+Taiwan,81
+EUROPE,76
+Channel Islands,31
+Denmark,88
+Estonia,70
+Finland,86
+Iceland,94
+Ireland,64
+Latvia,70
+Lithuania,69
+Norway,84
+Sweden,89
+United Kingdom,85
+Austria,60
+Belgium,98
+France,82
+Germany,78
+Liechtenstein,15
+Luxembourg,92
+Monaco,100
+Netherlands,93
+Switzerland,74
+Belarus,81
+Bulgaria,77
+Czechia,75
+Hungary,73
+Moldova,43
+Poland,60
+Romania,55
+Russia,75
+Slovakia,54
+Ukraine,70
+Albania,65
+Andorra,88
+Bosnia-Herzegovina,50
+Croatia,59
+Greece,81
+Italy,72
+Malta,95
+Montenegro,69
+North Macedonia,59
+Portugal,68
+San Marino,98
+Serbia,61
+Slovenia,56
+Spain,82
+Australia,90
+Federated States of Micronesia,23
+Fiji,59
+French Polynesia,62
+Guam,95
+Kiribati,58
+Marshall Islands,79
+Nauru,100
+New Caledonia,73
+New Zealand,87
+Palau,82
+Papua New Guinea,14
+Samoa,18
+Solomon Islands,26
+Tonga,23
+Tuvalu,66
+Vanuatu,26
+Algeria,75
+Egypt,43
+Libya,82
+Morocco,65
+Sudan,36
+Tunisia,71
+Western Sahara,87
+Benin,50
+Burkina Faso,33
+Cabo Verde,74
+Cote d'Ivoire,53
+Gambia,64
+Ghana,59
+Guinea,38
+Guinea-Bissau,45
+Liberia,54
+Mali,46
+Mauritania,58
+Niger,17
+Nigeria,54
+Senegal,50
+Sierra Leone,44
+Togo,44
+Burundi,15
+Comoros,30
+Djibouti,79
+Eritrea,43
+Ethiopia,23
+Kenya,30
+Madagascar,41
+Malawi,18
+Mauritius,41
+Mayotte,45
+Mozambique,39
+Reunion,100
+Rwanda,23
+Seychelles,59
+Somalia,48
+South Sudan,21
+Tanzania,37
+Uganda,27
+Zambia,46
+Zimbabwe,39
+Angola,69
+Cameroon,59
+Central African Republic,44
+Chad,24
+Congo,69
+Equatorial Guinea,74
+Gabon,91
+Sao Tome and Principe,76
+Botswana,73
+eSwatini,25
+Lesotho,30
+Namibia,55
+South Africa,69
+Canada,82
+United States,83
+Belize,47
+Costa Rica,83
+El Salvador,80
+Guatemala,53
+Honduras,60
+Mexico,82
+Nicaragua,60
+Panama,72
+Antigua and Barbuda,24
+Bahamas,84
+Barbados,31
+Cuba,78
+Curacao,89
+Dominica,72
+Dominican Republic,84
+Grenada,37
+Guadeloupe,99
+Haiti,60
+Jamaica,57
+Martinique,89
+Puerto Rico,94
+St. Kitts and Nevis,31
+St. Lucia,19
+St. Vincent and the Grenadines,54
+Trinidad and Tobago,53
+Argentina,92
+Bolivia,71
+Brazil,88
+Chile,89
+Colombia,82
+Ecuador,65
+French Guiana,87
+Guyana,27
+Paraguay,63
+Peru,82
+Suriname,66
+Uruguay,96
+Venezuela,88
+Armenia,64
+Azerbaijan,58
+Bahrain,90
+Cyprus,67
+Georgia,61
+Iraq,72
+Israel,93
+Jordan,92
+Kuwait,100
+Lebanon,89
+Oman,88
+Palestinian Territory,78
+Qatar,100
+Saudi Arabia,85
+Syria,57
+Turkey,78
+United Arab Emirates,88
+Yemen,40
+Kazakhstan,62
+Kyrgyzstan,38
+Tajikistan,28
+Turkmenistan,54
+Uzbekistan,51
+Afghanistan,27
+Bangladesh,40
+Bhutan,44
+India,36
+Iran,77
+Maldives,42
+Nepal,22
+Pakistan,38
+Sri Lanka,19
+Brunei,79
+Cambodia,39
+Indonesia,59
+Laos,38
+Malaysia,79
+Myanmar,32
+Philippines,54
+Singapore,100
+Thailand,62
+Timor-Leste,37
+Vietnam,39
+China,66
+Japan,92
+Mongolia,70
+Taiwan,81
+Channel Islands,31
+Denmark,88
+Estonia,70
+Finland,86
+Iceland,94
+Ireland,64
+Latvia,70
+Lithuania,69
+Norway,84
+Sweden,89
+United Kingdom,85
+Austria,60
+Belgium,98
+France,82
+Germany,78
+Liechtenstein,15
+Luxembourg,92
+Monaco,100
+Netherlands,93
+Switzerland,74
+Belarus,81
+Bulgaria,77
+Czechia,75
+Hungary,73
+Moldova,43
+Poland,60
+Romania,55
+Russia,75
+Slovakia,54
+Ukraine,70
+Albania,65
+Andorra,88
+Bosnia-Herzegovina,50
+Croatia,59
+Greece,81
+Italy,72
+Malta,95
+Montenegro,69
+North Macedonia,59
+Portugal,68
+San Marino,98
+Serbia,61
+Slovenia,56
+Spain,82
+Australia,90
+Federated States of Micronesia,23
+Fiji,59
+French Polynesia,62
+Guam,95
+Kiribati,58
+Marshall Islands,79
+Nauru,100
+New Caledonia,73
+New Zealand,87
+Palau,82
+Papua New Guinea,14
+Samoa,18
+Solomon Islands,26
+Tonga,23
+Tuvalu,66
+Vanuatu,26
